@@ -6,6 +6,7 @@
 - [About](#about)
 - [Screenshots](#screenshots)
 - [Typography](#typography)
+- [Disclaimer](#disclaimer)
 
 ## About
 A simple and elegant greyscale theme for Obsidian.
